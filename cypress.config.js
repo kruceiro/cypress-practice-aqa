@@ -4,7 +4,7 @@ module.exports = defineConfig({
   allowCypressEnv: false,
 
   e2e: {
-    baseUrl: 'https://example.cypress.io',
+    baseUrl: 'https://guest:welcome2qauto@qauto.forstudy.space/',
     defaultCommandTimeout: 8000,
     video: false
   },
